@@ -1,5 +1,5 @@
-# Data analysis for the BUMP Feasibility Study: deeper understanding of the molecular and cellular events leading to labour
-<img src="readme_figures/bump.jpg" width="150" align="left"/>
+# Data analysis for the BUMP Feasibility Study
+<img src="docs/figures/bump.jpg" width="150" align="left"/>
 
 Code for the transcriptomic data analysis for the [BUMP](https://bumpcollaborative.org/) (Borne Uterine Mapping Project) feasibility study. 
 
@@ -7,4 +7,4 @@ This is a study funded by [Borne](https://www.borne.org.uk/) that seeks to confi
 
 
 
-![](readme_figures/summary.png)
+![](docs/figures/summary.png)
